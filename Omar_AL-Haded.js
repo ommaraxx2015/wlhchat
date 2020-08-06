@@ -137,7 +137,7 @@ div#tlogins .uzr{
                             
     $('a.fr.primaryborder.btn.btn-default,label.fl.label.loginstat, label.label.label-primary.mini.fr,.fr.borderg,label.fl.label.loginstat, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success,.fr.borderg a,ul.nav.nav-tabs li a, ul.nav.nav-tabs li a:hover, ul.nav.nav-tabs li :focus,marquee.label-primary.fl span').css({'color':$('a.label.label-primary.fl').css('background-color')})
 $('.lonline.light.break').addClass('label-primary')
-$('.fr.borderg a').text('دوك موبايل')
+$('.fr.borderg a').text('عمر الحديد')
             
             
 $(window).resize();
