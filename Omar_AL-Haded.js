@@ -7,6 +7,50 @@
 			$(`
 	<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera" />
 <style>
+div#users img.fl.ustat {
+    border-radius: 10px 0px 0px 0px;
+    margin: 0;
+	margin-right: -36px;
+	width: 39px!important;
+
+}
+
+img.fitimg.fl.u-pic {
+    border-radius: 13px 0px 0px 0px!important;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 5px #707071
+}
+
+
+#des0 {
+    background-color: #3c3c3c;
+	border-radius: 15px 15px 0px 0!important;
+}
+
+a.fa.fa-user-plus {
+    color: #ff3363;
+}
+
+
+label.fl.nosel.label.pnhead {
+background-image: -webkit-linear-gradient(45deg,hsla(0,0%,100%,.2) 25%,transparent 0,transparent 50%,hsla(0,0%,100%,.2) 0,hsla(0,0%,100%,.2) 75%,transparent 0,transparent)!important;
+
+}
+
+
+
+
+#des3 {
+    margin: 1px!important;
+}
+
+ul.nav.nav-tabs.fl {
+    margin-top: 1px!important;
+}
+
+button.ssss.btn.fr.btn-warning.fa.fa-paint-brush {
+    display: none!important;
+}
+
 a.label.label-primary.fl button {
     border-radius: 50%;
     background: transparent;
